@@ -14,3 +14,5 @@ This Repo contains the following files and directories:
 - Use source("run_analysis.R") command in RStudio.
 - The script generates the tidyData.txt in your working directory
 - You can use read.table("tidyData.txt") command in RStudio to read the file
+
+For more details, see the chapter "Sudy design" in the Code Book.
